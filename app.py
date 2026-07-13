@@ -4,9 +4,6 @@ import csv_storage
 from schemas import Student
 csv_storage.initialize_storage()
 
-#csv_storage.write_data("Anubhav", "Python Development", 9955239174, "darshit@gmail.com")
-#csv_storage.update(1, name="Anubhav Darshit")
-
 
 st.markdown(
     """
